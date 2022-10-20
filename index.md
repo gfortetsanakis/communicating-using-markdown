@@ -6,3 +6,6 @@
 ```Python
 a = [1, 2, 3]
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
